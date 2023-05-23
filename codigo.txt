@@ -1,1 +1,18 @@
-"abc" 
+algoritimo de soma
+
+declaraçao:
+   lista[10]:inteiro;
+   numero:inteiro;
+   i:inteiro
+
+inicio
+    para i <- 0 de ate 9 passo 1 faça
+	lista[i]<-1,
+	
+	
+fim-para
+
+fim-algoritimo
+
+ll
+	
